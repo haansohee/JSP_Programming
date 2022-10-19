@@ -8,8 +8,7 @@ JSP 개요에 대한 내용<br>
 
 <br>
 
-## Week02
-<br> 
+## Week02 
 서블릿과 JSP에 관한 내용 <br>
 <a href = "https://velog.io/@haansohee/2.-서블릿과-JSP"> 🔍 공부한 내용 살펴보기 </a>
 
